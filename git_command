@@ -1,0 +1,24 @@
+git clone https://github.com/priyankaauti123/prod.git
+git clone https://github.com/priyankaauti123/prod
+echo "# prod" >> README.md
+cd proj
+git init
+ls
+vim README.md.
+git add README.md.
+git commit -m "added readme"
+git remote add origin https://github.com/priyankaauti123/prod.git
+git push -u origin master
+env | grep proxy
+git push -u origin master
+git config --global user.name "autipriyanka"
+git remote add origin https://github.com/priyankaauti123/prod.git
+git push -u origin master
+env | grep proxy
+git push -u origin master
+teamviewer.
+git push -u origin master
+git status
+git push -u origin master
+git status
+~          
